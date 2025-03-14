@@ -1,0 +1,18 @@
+current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+/Users/leetaek/.rbenv/versions/3.4.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250314-57266-8ufz1p sitelibdir\=./.gem.20250314-57266-8ufz1p clean
+
+current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250314-57266-8ufz1p sitelibdir\=./.gem.20250314-57266-8ufz1p
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250314-57266-8ufz1p sitelibdir\=./.gem.20250314-57266-8ufz1p install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250314-57266-8ufz1p
+
+current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250314-57266-8ufz1p sitelibdir\=./.gem.20250314-57266-8ufz1p clean

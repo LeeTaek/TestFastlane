@@ -1,0 +1,19 @@
+current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.4.0/gems/sysrandom-1.0.5/ext/sysrandom
+/Users/leetaek/.rbenv/versions/3.4.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.4.0/gems/sysrandom-1.0.5/ext/sysrandom
+make DESTDIR\= sitearchdir\=./.gem.20250314-57266-oxovxq sitelibdir\=./.gem.20250314-57266-oxovxq clean
+
+current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.4.0/gems/sysrandom-1.0.5/ext/sysrandom
+make DESTDIR\= sitearchdir\=./.gem.20250314-57266-oxovxq sitelibdir\=./.gem.20250314-57266-oxovxq
+compiling randombytes_sysrandom.c
+compiling sysrandom_ext.c
+linking shared-object sysrandom_ext.bundle
+
+current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.4.0/gems/sysrandom-1.0.5/ext/sysrandom
+make DESTDIR\= sitearchdir\=./.gem.20250314-57266-oxovxq sitelibdir\=./.gem.20250314-57266-oxovxq install
+/usr/bin/install -c -m 0755 sysrandom_ext.bundle ./.gem.20250314-57266-oxovxq
+
+current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.4.0/gems/sysrandom-1.0.5/ext/sysrandom
+make DESTDIR\= sitearchdir\=./.gem.20250314-57266-oxovxq sitelibdir\=./.gem.20250314-57266-oxovxq clean
