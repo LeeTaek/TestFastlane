@@ -16,8 +16,40 @@
 default_platform(:ios)
 
 platform :ios do
-  desc "Description of what the lane does"
-  lane :custom_lane do
+  desc "Runs 'pod install'"
+  puts "Runs 'pod install'"
+  lane :pod_install do
+	cocoapods( 
+		clean_install: true, 
+		podfile: "./Podfile"
+	)
     # add actions here: https://docs.fastlane.tools/actions
   end
 end
+
+
+
+  desc "Run Swift Code Validation using SwiftLint"
+  puts "Run Swift Code Validation using SwiftLint"
+  lane :lint do
+	swiftlint( 
+		mode: :lint, 
+		ignore_exit_status: true, 
+		raise_if_swiftlint_error: true, 
+		executable: "./Pods/SwiftLint/swiftlint"
+	)
+    # add actions here: https://docs.fastlane.tools/actions
+  end
+
+
+ desc "Runs all the tests" 
+ puts "Runs all the tests" 
+ lane :tests do 
+	run_tests( 
+		workspace:"TestFastlane.xcworkspace", 
+		scheme:"TestFastlane",
+		devices:["iPhone 15 Pro"],
+		skip_build: true
+	) 
+ end
+		

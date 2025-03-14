@@ -3,16 +3,16 @@ current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.4.0/
 creating Makefile
 
 current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
-make DESTDIR\= sitearchdir\=./.gem.20250314-57266-8ufz1p sitelibdir\=./.gem.20250314-57266-8ufz1p clean
+make DESTDIR\= sitearchdir\=./.gem.20250314-70978-x4z9pb sitelibdir\=./.gem.20250314-70978-x4z9pb clean
 
 current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
-make DESTDIR\= sitearchdir\=./.gem.20250314-57266-8ufz1p sitelibdir\=./.gem.20250314-57266-8ufz1p
+make DESTDIR\= sitearchdir\=./.gem.20250314-70978-x4z9pb sitelibdir\=./.gem.20250314-70978-x4z9pb
 compiling nkf.c
 linking shared-object nkf.bundle
 
 current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
-make DESTDIR\= sitearchdir\=./.gem.20250314-57266-8ufz1p sitelibdir\=./.gem.20250314-57266-8ufz1p install
-/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250314-57266-8ufz1p
+make DESTDIR\= sitearchdir\=./.gem.20250314-70978-x4z9pb sitelibdir\=./.gem.20250314-70978-x4z9pb install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250314-70978-x4z9pb
 
 current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
-make DESTDIR\= sitearchdir\=./.gem.20250314-57266-8ufz1p sitelibdir\=./.gem.20250314-57266-8ufz1p clean
+make DESTDIR\= sitearchdir\=./.gem.20250314-70978-x4z9pb sitelibdir\=./.gem.20250314-70978-x4z9pb clean

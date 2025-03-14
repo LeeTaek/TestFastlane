@@ -1,0 +1,19 @@
+current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+/Users/leetaek/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250314-35049-sj87wb sitelibdir\=./.gem.20250314-35049-sj87wb clean
+
+current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250314-35049-sj87wb sitelibdir\=./.gem.20250314-35049-sj87wb
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250314-35049-sj87wb sitelibdir\=./.gem.20250314-35049-sj87wb install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250314-35049-sj87wb
+
+current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250314-35049-sj87wb sitelibdir\=./.gem.20250314-35049-sj87wb clean

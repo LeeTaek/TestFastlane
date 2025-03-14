@@ -9,16 +9,16 @@ checking for whether -std=c99 is accepted as CFLAGS... yes
 creating Makefile
 
 current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.4.0/gems/json-2.10.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250314-57266-glzuet sitelibdir\=./.gem.20250314-57266-glzuet clean
+make DESTDIR\= sitearchdir\=./.gem.20250314-70978-f3yh07 sitelibdir\=./.gem.20250314-70978-f3yh07 clean
 
 current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.4.0/gems/json-2.10.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250314-57266-glzuet sitelibdir\=./.gem.20250314-57266-glzuet
+make DESTDIR\= sitearchdir\=./.gem.20250314-70978-f3yh07 sitelibdir\=./.gem.20250314-70978-f3yh07
 compiling parser.c
 linking shared-object json/ext/parser.bundle
 
 current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.4.0/gems/json-2.10.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250314-57266-glzuet sitelibdir\=./.gem.20250314-57266-glzuet install
-/usr/bin/install -c -m 0755 parser.bundle ./.gem.20250314-57266-glzuet/json/ext
+make DESTDIR\= sitearchdir\=./.gem.20250314-70978-f3yh07 sitelibdir\=./.gem.20250314-70978-f3yh07 install
+/usr/bin/install -c -m 0755 parser.bundle ./.gem.20250314-70978-f3yh07/json/ext
 
 current directory: /Users/leetaek/Desktop/TestFastlane/vendor/bundle/ruby/3.4.0/gems/json-2.10.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250314-57266-glzuet sitelibdir\=./.gem.20250314-57266-glzuet clean
+make DESTDIR\= sitearchdir\=./.gem.20250314-70978-f3yh07 sitelibdir\=./.gem.20250314-70978-f3yh07 clean
